@@ -7,6 +7,7 @@
     * bit_flipping.py
     * bit_reduction.py
     * bit_duplication.py
+    * cons_add.py
 * conversion
   
   色んな組み合わせ最適化問題をQUBO行列に変換するスクリプト
