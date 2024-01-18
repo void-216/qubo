@@ -80,7 +80,7 @@ class QUBO:
 
 
 def main():
-    parser = argparse.ArgumentParser(description='QUBO solver using D-Wave')
+    parser = argparse.ArgumentParser(description='QUBO solver using Amplify')
     parser.add_argument(
         'QUBOfile', help='QUBO file (mm/mm.gz or json/json.gz)')
     parser.add_argument('-o', '--output', default='result.json',
