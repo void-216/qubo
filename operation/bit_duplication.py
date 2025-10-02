@@ -44,8 +44,6 @@ def sort_pair(x: int, y: int):
         return y, x
 
 
-
-
 def main():
     random.seed(0)
     parser = argparse.ArgumentParser(
