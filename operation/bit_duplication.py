@@ -71,7 +71,6 @@ def main():
     duplicate_num2 = args.duplicate_num2
     solfile = args.solutionfile
 
-
     QUBOfile = args.QUBOfile
     
     with open(QUBOfile, "rt") as f:
