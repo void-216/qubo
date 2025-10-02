@@ -75,7 +75,6 @@ def main():
     with open(QUBOfile, "rt") as f:
         problem = json.load(f)
 
-
     if args.ratio.isdecimal():
         dup_normal = int(args.ratio)
     else:
